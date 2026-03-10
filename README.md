@@ -62,30 +62,24 @@ The dataset contains information about pizza orders including order details, piz
 ---
 
 ## 🔍 Key Insights
-1. The pizza business generated **$817,860.05 in total revenue** from 21,350 orders.  
-2. A total of **49,574 pizzas were sold**, showing strong customer demand.  
-3. The **average order value is $38.31**, indicating customers often purchase multiple pizzas per order.  
-4. Order values range from **$9.75 to $83**, showing variation in customer spending behavior.  
-5. The **Classic pizza category generates the highest revenue** among all categories.  
-6. **Large pizzas are the most popular size**, with the highest quantity sold.  
-7. **The Thai Chicken Pizza generates the highest revenue** among all pizzas.  
-8. **July recorded the highest number of orders**, indicating peak demand during that month.  
-9. Pizzas such as **Classic Deluxe, Barbecue Chicken, Hawaiian, Pepperoni, and Thai Chicken** are the most frequently ordered.  
-10. Several pizzas generate **revenue higher than the average pizza revenue**, contributing significantly to overall sales.
+
+1. The business generated **$817,860.05** in total revenue from **21,350** orders, indicating strong overall sales performance.
+2. A total of **49,574** pizzas were sold, showing high customer demand for pizza products.
+3. **Classic pizzas** generated the highest revenue, making them the most profitable category.
+4. **Large pizzas** are the most popular size, with the highest quantity sold among all sizes.
+5. The **Thai Chicken Pizza and Barbecue Chicken Pizza** are among the top revenue-generating pizzas.
 
 ---
 
 ## 💡 Recommendations
 1. Promote **top-performing pizzas** such as Thai Chicken and Barbecue Chicken pizzas.  
 2. Offer **combo deals or discounts on large pizzas**, since they are the most popular size.  
-3. Introduce **seasonal promotions during low-demand months** to increase sales.  
-4. Expand menu options within the **Classic pizza category**.  
-5. Increase **average order value through bundle deals or family combos**.  
-6. Maintain proper inventory for **ingredients used in top-selling pizzas**.  
-7. Use sales data insights to create **targeted marketing strategies**.  
-8. Introduce **limited-time menu items** to attract repeat customers.  
-9. Optimize pricing strategies based on **customer purchasing behavior**.  
-10. Continuously analyze sales data for **data-driven decision making**.
+3. Introduce **seasonal promotions during low-demand months** to increase sales.    
+4. Increase **average order value through bundle deals or family combos**.  
+5. Maintain proper inventory for **ingredients used in top-selling pizzas**.   
+6. Introduce **limited-time menu items** to attract repeat customers.  
+7. Optimize pricing strategies based on **customer purchasing behavior**.  
+8. Continuously analyze sales data for **data-driven decision making**.
 
 ---
 
